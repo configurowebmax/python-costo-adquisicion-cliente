@@ -1,11 +1,11 @@
-# %%TITULO%% 🐍
+# Costo de Adquisición de Cliente (CAC) 🐍
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Deploy](https://github.com/configurowebmax/python-costo-adquisicion-cliente/actions/workflows/pages.yml/badge.svg)](https://github.com/configurowebmax/python-costo-adquisicion-cliente/actions)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?logo=github&logoColor=white)](https://configurowebmax.github.io/python-costo-adquisicion-cliente/)
 [![License](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
-> %%DESCRIPCION%%
+> Si el CAC > valor del cliente, pierdes dinero.
 
 ## 🚀 Probar la aplicación
 
